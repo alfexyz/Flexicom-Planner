@@ -1,0 +1,27 @@
+product_code,product_name,quantity_in_stock,supplier_cui,supplier_name,lead_time_days,min_order_qty,purchase_price
+P001,Rulment 6205-2RS SKF,1133,RO40000001,SC Rulmenti SA Barlad,7,10,16.65
+P002,Curea trapezoidala B68,549,RO40000003,SC Auto Parts Distribution SA,5,1,11.48
+P003,Filtru ulei hidraulic JCB,357,RO40000005,SC Pompe si Filtre SRL,8,10,44.45
+P004,Bujie tractor U650,2442,RO40000003,SC Auto Parts Distribution SA,5,1,6.37
+P005,Disc frictiune ambreiaj U650,332,RO40000004,SC Agro Import SRL,14,5,120.77
+P006,Pompa hidraulica seria 1,84,RO40000004,SC Agro Import SRL,14,1,289.47
+P007,Furtun hidraulic 1/2 1m,595,RO40000002,SC Hidraulica Industriala SRL,10,5,18.75
+P008,Garnitura chiulasa U650,195,RO40000004,SC Agro Import SRL,14,1,52.4
+P009,Filtru aer motor John Deere,422,RO40000005,SC Pompe si Filtre SRL,8,10,30.87
+P010,Bolt piston 80mm,505,RO40000004,SC Agro Import SRL,14,5,9.69
+P011,Semering ax roata 50x72x10,698,RO40000001,SC Rulmenti SA Barlad,7,5,4.95
+P012,Lant transmisie 428H-128L,224,RO40000003,SC Auto Parts Distribution SA,5,10,26.4
+P013,Termostat motor 82C,287,RO40000003,SC Auto Parts Distribution SA,5,5,15.64
+P014,Alternator 14V 55A reconditionat,0,RO40000003,SC Auto Parts Distribution SA,5,1,193.44
+P015,Electromotor 12V 2.2kW recond.,12,RO40000003,SC Auto Parts Distribution SA,5,10,146.32
+P016,Injector motor diesel Perkins,140,RO40000004,SC Agro Import SRL,14,5,77.45
+P017,Pompa injectie Lucas DPC,86,RO40000004,SC Agro Import SRL,14,10,441.5
+P018,Arc supapa motor D-110,949,RO40000004,SC Agro Import SRL,14,1,3.2
+P019,Bieleta directie tractor,212,RO40000002,SC Hidraulica Industriala SRL,10,10,37.18
+P020,Rulment roata fata 6307,355,RO40000001,SC Rulmenti SA Barlad,7,10,23.05
+P021,Placuta frana set 4buc,189,RO40000003,SC Auto Parts Distribution SA,5,1,41.68
+P022,Filtru combustibil universal,362,RO40000005,SC Pompe si Filtre SRL,8,10,11.46
+P023,Radiator apa tractor 4 cilindri,95,RO40000002,SC Hidraulica Industriala SRL,10,10,168.4
+P024,Garnitura capac distributie,87,RO40000004,SC Agro Import SRL,14,1,7.48
+P025,Cablu ambreiaj U651,62,RO40000003,SC Auto Parts Distribution SA,5,10,12.8
+P026,Buton contact pornire,59,RO40000003,SC Auto Parts Distribution SA,5,10,3.99
